@@ -25,7 +25,7 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
 
  **[2D](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/3D%20BIM%20tools.FCStd)** Line,Wire,Circle,Arc,Ellipse,Polygon,Rectangle,etc.
 
- **[3D]()**  Wall,Curtain Wall,Column,Beam,Slab,Rebar,Window,Door,Pipe tools,Stairs,Panel tools,Frame,Fence,Truss,etc.
+ **[3D](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/BIM%202D%20Tools.FCStd)**  Wall,Curtain Wall,Column,Beam,Slab,Rebar,Window,Door,Pipe tools,Stairs,Panel tools,Frame,Fence,Truss,etc.
  
 ### Result:-
 [File](https://wiki.freecad.org/BIM_Workbench)
