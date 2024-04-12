@@ -15,7 +15,7 @@ Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment
  
  2.[Beam]()
  
- 3.[Column]()
+ 3.[Column](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Procedure%20of%20Column.md)
  
 ### Result:-
 | S.NO | Element | File | Photos | Remarks |
