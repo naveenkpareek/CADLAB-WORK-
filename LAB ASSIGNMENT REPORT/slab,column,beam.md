@@ -11,7 +11,7 @@ Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment
 |**3**|**Web site**|[Link](https://wiki.freecad.org/Reinforcement_LShapeRebar)|[Link](https://wiki.freecad.org/Reinforcement_ColumnRebars)|[Link](https://wiki.freecad.org/File:Arch_Rebar_BeamReinforcement_example.png)|-|
 
 ### Procedure:-
- 1.[Slab]()
+ 1.[Slab](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Procedure%20of%20slab.md)
  
  2.[Beam]()
  
