@@ -10,7 +10,6 @@ Design of 1BHK plan using LibreCAD and also with help of _Block_
 
 3.[You tube](https://www.youtube.com/watch?v=uaZ4MuXcu8s)
 
-4.[Book]()
 ### Procedure:-
 1. Open LibreCAD software on your computer to start the design process.
 
@@ -29,7 +28,7 @@ Design of 1BHK plan using LibreCAD and also with help of _Block_
 8. Review the 1 BHK plan to ensure accuracy and completeness. Make any necessary modifications or adjustments based on feedback or further analysis.
  
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/1BHK.dxf)
 
 Photo
 ![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
