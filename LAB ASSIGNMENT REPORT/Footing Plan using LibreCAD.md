@@ -6,9 +6,9 @@ Isolated footing drawings are essential documents in the construction process, p
 ### Material and equipments used:-
 1.[Manual](https://docs.librecad.org/en/latest/)
 
-2.[Web site](https://wiki.librecad.org/index.php/User_Interface)
+2.[Web site](https://www.google.com/search?q=footing+plan+in+librecad&sca_esv=da7bf48eee7538e5&sca_upv=1&rlz=1C1RXQR_en__1098__1098&sxsrf=ACQVn0-g9m8PabMn7gX9-jIhi1--tDMIDA%3A1712917651164&ei=kwwZZry_CamXseMPmqSc0Ao&ved=0ahUKEwj81IHBu7yFAxWpS2wGHRoSB6oQ4dUDCBA&uact=5&oq=footing+plan+in+librecad&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGZvb3RpbmcgcGxhbiBpbiBsaWJyZWNhZDIFECEYoAEyBRAhGKABSNwpUOYGWLUmcAF4AZABAJgBngKgAeUXqgEFMC44Lje4AQPIAQD4AQGYAgugAuoQwgIKEAAYRxjWBBiwA8ICBhAAGBYYHsICCxAAGIAEGIoFGIYDwgIIEAAYgAQYogTCAgcQIRgKGKABmAMAiAYBkAYIkgcFMS4yLjigB4tV&sclient=gws-wiz-serp#ip=1)
 
-3.[You tube](https://www.youtube.com/watch?v=COglpXQdnys)
+3.[You tube](https://www.youtube.com/watch?v=-Ha44ut3yts)
 
 4.[Book](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/is.sp.47.1988.pdf)
 ### Procedure:-
