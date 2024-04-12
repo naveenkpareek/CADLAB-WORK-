@@ -6,11 +6,10 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
 ### Material and equipments used:-
 1.[Manual](https://wiki.freecad.org/BIM_Workbench)
 
-2.[Web site]()
+2.[Web site](https://forum.freecad.org/viewtopic.php?style=1&t=27237)
 
 3.[You tube](https://www.youtube.com/watch?v=rkWOFQ2fGZQ&list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU)
 
-4.[Book]()
 ### Procedure:-
 1. Open FreeCAD software on your computer to start the design process.
 
@@ -29,16 +28,16 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
  **3D**  Wall,Curtain Wall,Column,Beam,Slab,Rebar,Window,Door,Pipe tools,Stairs,Panel tools,Frame,Fence,Truss,etc.
  
 ### Result:-
-[File]()
+[File](https://wiki.freecad.org/BIM_Workbench)
 
 Photo
-![Photo]()
+![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/BIM%20WB.png)
  
 ### Discussion:-
 BIM (Building Information Modeling) workbench in FreeCAD is a significant advancement, as it allows users to create detailed digital representations of buildings and infrastructure. This toolset integrates various aspects of a building project, including architectural design, structural engineering, and MEP (Mechanical, Electrical, and Plumbing) systems, into a single digital model.
 ### Conclusion:-
 In conclusion, the BIM workbench in FreeCAD represents a significant advancement in the field of building design and construction. It offers users a powerful set of tools for creating detailed digital models of buildings and infrastructure, integrating various disciplines and allowing for comprehensive analysis and visualization.
 ### References:-
-[Web site]()
+[Web site](https://wiki.freecad.org/BIM_Workbench)
 
 [You tube](https://www.youtube.com/watch?v=rkWOFQ2fGZQ&list=PLmKdGVtV5Vnt2cj4IZIv9FM39QHaE1ZaU)
