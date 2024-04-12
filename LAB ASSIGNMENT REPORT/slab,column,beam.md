@@ -13,7 +13,7 @@ Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment
 ### Procedure:-
  1.[Slab](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Procedure%20of%20slab.md)
  
- 2.[Beam]()
+ 2.[Beam](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Procedure%20of%20Beam.md)
  
  3.[Column](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/LAB%20ASSIGNMENT%20REPORT/Procedure%20of%20Column.md)
  
