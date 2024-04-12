@@ -10,7 +10,7 @@ Isolated footing drawings are essential documents in the construction process, p
 
 3.[You tube](https://www.youtube.com/watch?v=COglpXQdnys)
 
-4.[Book]()
+4.[Book](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/is.sp.47.1988.pdf)
 ### Procedure:-
 1. Open LibreCAD on your computer.
 
