@@ -41,6 +41,6 @@ LibreCAD offers a range of tools and features that allow engineers to design iso
 Overall, the use of LibreCAD for designing isolated footings has proven to be a valuable asset in the realm of structural engineering. By leveraging LibreCAD's capabilities, engineers can efficiently create optimized footing designs that prioritize safety, functionality, and cost-effectiveness, ultimately contributing to the success of construction projects. 
 
 ### References:-
-[You tube](https://www.youtube.com/watch?v=COglpXQdnys)
-
 [Manual](https://docs.librecad.org/en/latest/)
+
+[You tube](https://www.youtube.com/watch?v=-Ha44ut3yts)
