@@ -23,7 +23,7 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
 
 6. You will have tools like:-
 
- **[2D]()** Line,Wire,Circle,Arc,Ellipse,Polygon,Rectangle,etc.
+ **[2D](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/3D%20BIM%20tools.FCStd)** Line,Wire,Circle,Arc,Ellipse,Polygon,Rectangle,etc.
 
  **[3D]()**  Wall,Curtain Wall,Column,Beam,Slab,Rebar,Window,Door,Pipe tools,Stairs,Panel tools,Frame,Fence,Truss,etc.
  
