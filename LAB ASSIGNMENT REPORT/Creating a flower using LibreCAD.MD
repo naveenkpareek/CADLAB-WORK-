@@ -31,7 +31,7 @@ While doing this assignment you will be able to use layers in libreCAD and vario
 While making you might be facing problem like unable to get accurate intersection points,unable to select the point on entity,etc. To resolve all issues go to the pannel in the bottom end and enable the option like intersection, select on entity,etc.
 
 ### Conclusion:-
-You are more attched with resources and tools used while using libreCAD. 
+You will be more attched with resources and tools used while using libreCAD. 
 
 ### References:-
 [You tube](https://www.youtube.com/watch?v=COglpXQdnys)
