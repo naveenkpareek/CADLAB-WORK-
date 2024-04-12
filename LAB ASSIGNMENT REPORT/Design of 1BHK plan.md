@@ -30,8 +30,8 @@ Design of 1BHK plan using LibreCAD and also with help of _Block_
 ### Result:-
 [File](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/1BHK.dxf)
 
-Photo
-![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
+Photo:-
+![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/1BHK.png)
  
 ### Discussion:-
 LibreCAD offers tools for rendering and visualization, allowing designers to create realistic 3D models or detailed 2D representations of the 1 BHK plan. These visualizations help clients and stakeholders better understand the design concept and make informed decisions.
