@@ -1,6 +1,6 @@
-# 3D Room Plan using FreeCAD (BIM)
+# 3D Room Plan using FreeCAD 
 ### Objective :- 
-Design of 3D room plan in FreeCAD using BIM WB
+Design of 3D room plan in FreeCAD 
 ### Introduction:-
 Designing a 3D room in FreeCAD using BIM is very interesting task which make us equiped with the BIM WB tools which further can be used in future for designing of buildings and many more structural elements. Moreover as this 3D modal uses various structural elements like **I** shape rebar, slabs, walls etc. which are designed by us only (Specifications) made us acknowledged about the designing part too.
 ### Material and equipments used:-
