@@ -23,7 +23,7 @@ LibreCAD is a computer-aided design (CAD) application for 2D design. It is a ver
 [File](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/Flower.dxf)
 
 Photo
-![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/Flower%20LibreCAD.png)
+![Photo](https://raw.githubusercontent.com/naveenkpareek/CADLAB-WORK-/main/Photos/Flower.png)
  
 ### Discussion:-
 While doing this assignment you will be able to use layers in libreCAD and various others tools which would help you in further drawings.
