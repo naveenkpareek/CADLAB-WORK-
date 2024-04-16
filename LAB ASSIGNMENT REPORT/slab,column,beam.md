@@ -22,7 +22,7 @@ Reinforced elements in FreeCAD's BIM (Building Information Modeling) environment
 | ---- | ---- | ---- | ---- | ---- |
 |1| Slab | [Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/slab%20reinforcement.FCStd) | [Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/Slab%20reinforcement.png) |-|
 |2| Column |[Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/Column%20reinforcement.FCStd) | [Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/Column%20reinforcement.png) |-|
-|3| Beam |[Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/Beam%20Reinforcement.FCStd) | [Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/Beam%20reinforcement.png) |-|
+|3| Beam |[Link](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/Beam%20Reinforcement.FCStd) | [Link](https://raw.githubusercontent.com/naveenkpareek/CADLAB-WORK-/main/Photos/Beam%20reinforcement.png) |-|
  
 ### Discussion:-
 
