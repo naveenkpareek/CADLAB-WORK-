@@ -31,7 +31,7 @@ Design of 2 BHK plan using LibreCAD and also with the help of _Block_
 [File](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/%232%20BHK%20LAYERS.dxf)
 
 Photo
-![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/2%20BHK%20plan%20LibreCAD.png)
+![Photo](https://raw.githubusercontent.com/naveenkpareek/CADLAB-WORK-/main/Photos/2%20BHK%20plan%20LibreCAD.png)
  
 ### Conclusion:-
 LibreCAD offers tools for rendering and visualization, allowing designers to create realistic 3D models or detailed 2D representations of the 2 BHK plan. These visualizations help clients and stakeholders better understand the design concept and make informed decisions.
