@@ -31,7 +31,7 @@ BIM (Building Information Modeling) workbench in FreeCAD is a powerful toolset d
 [File](https://wiki.freecad.org/BIM_Workbench)
 
 Photo
-![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/BIM%20WB.png)
+![Photo](https://raw.githubusercontent.com/naveenkpareek/CADLAB-WORK-/main/Photos/BIM%20WB.png)
  
 ### Discussion:-
 BIM (Building Information Modeling) workbench in FreeCAD is a significant advancement, as it allows users to create detailed digital representations of buildings and infrastructure. This toolset integrates various aspects of a building project, including architectural design, structural engineering, and MEP (Mechanical, Electrical, and Plumbing) systems, into a single digital model.
