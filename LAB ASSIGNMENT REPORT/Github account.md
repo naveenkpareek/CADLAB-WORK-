@@ -22,7 +22,7 @@ To develope an github account where we can upload our assignment work in the for
 [File](https://github.com/naveenkpareek/CADBIM)
 
 Photo
-![Photo](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Photos/Github%20account.png)
+![Photo](https://raw.githubusercontent.com/naveenkpareek/CADLAB-WORK-/main/Photos/Github%20account.png)
  
 ### Discussion:-
 GitHub allows you to create, store, change, merge, and collaborate on files or code. Any member of a team can access the GitHub repository (think of this as a folder for files) and see the most recent version in real-time. Then, they can make edits or changes that the other collaborators also see.
