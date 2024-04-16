@@ -28,7 +28,7 @@ Design of 2 BHK plan using LibreCAD and also with the help of _Block_
 9. Once you've completed the basic floor plan, review it carefully for any errors or inconsistencies.
 
 ### Result:-
-[File](https://github.com/naveenkpareek/CADBIM/blob/main/2114039/libracad/Introduction%20to%20LibraCAD%20interface.dxf)
+[File](https://github.com/naveenkpareek/CADLAB-WORK-/blob/main/Files/%232%20BHK%20LAYERS.dxf)
 
 Photo
 ![Photo](C:\Users\ASUS\OneDrive\Pictures\Screenshots\Screenshot 2024-04-09 105516.png)
